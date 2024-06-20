@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 You can download the ZIP file of the repository or clone it using Git:
 
 ```bash
-dgit clone https://github.com/darpancs/cypress-workshop-yyc.git
+git clone https://github.com/darpancs/cypress-workshop-yyc.git
 ```
 
 ### Install Dependencies
